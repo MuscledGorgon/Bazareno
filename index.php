@@ -73,6 +73,34 @@
       <!--/.container-fluid -->
     </nav>
 
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1" class=""></li>
+        <li data-target="#myCarousel" data-slide-to="2" class=""></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="item active">
+          <img src="content/img/bazareno-oro.jpg" class="img-responsive imagenObjetivo" alt="Te entendemos, te ayudamos y te prestamos rápido">
+        </div>
+        <div class="item ">
+          <img src="content/img/bazareno-articulos-disponibles.jpg" class="img-responsive imagenObjetivo" alt="Artículos disponibles">
+        </div>
+        <div class="item ">
+          <img src="content/img/uno_02012020.jpg" class="img-responsive imagenObjetivo" alt="">
+        </div>
+      </div>
+
+      <!-- Carousel controls -->
+      <a class="carousel-control left" href="#myCarousel" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+      </a>
+      <a class="carousel-control right" href="#myCarousel" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+      </a>
+    </div>
+
+
 
   </body>
 </html>
