@@ -25,6 +25,7 @@
     <link rel="shortcut icon" href="content/favicon/favicon.ico" type="image/x-icon">
     <link rel="icon" href="content/favicon/favicon.ico" type="image/x-icon">
     <link rel="manifest" href="content/favicon/manifest.json">
+    <link rel="stylesheet" href="content/css/style.css">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="https://bazareno.com.mx/wp-content/themes/bazareno/recs/favicon/ms-icon-144x144.png">
   </head>
