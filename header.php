@@ -31,44 +31,6 @@
   </head>
   <body>
 
-    <!-- Static navbar -->
-    <nav class="navbar navbar-default">
-      <div class="container-fluid menuMobile">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="index.html" onclick="gtag('event', 'click', {'event_category' : 'Menú','event_label' : 'Logo'});">
-            <img src="wp-content/themes/bazareno/recs/img/logos/bazareno.png" class="img-responsive logo" alt="Bazareño Te entendemos, te ayudamos y te prestamos rápido">
-          </a>
-        </div>
-        <form class="form-inline" action="https://bazareno.com.mx/" method="get" id="buscador">
-          <div class="formularioBuscar">
-            <label class="textoBuscar" for="buscar">Te entendemos, te ayudamos y te prestamos rápido.</label>
-            <input class="inputBuscar" type="text" name="buscador" id="buscador" value="" placeholder="">
-            <a href="https://www.facebook.com/BazarenoOficial/" target="_blank" onclick="gtag('event', 'click', {'event_category' : 'Menú','event_label' : 'Facebook'});">
-              <img src="wp-content/themes/bazareno/recs/img/iconos/facebook.png" class="img-responsive enLinea" alt="Facebook">
-            </a>
-          </div>
-        </form>
-        <div id="navbar" class="navbar-collapse collapse">
-          <ul class="nav navbar-nav menuBazareno">
-            <li><a href="nosotros/index.html" class="menuBordeDerecho" onclick="gtag('event', 'click', {'event_category' : 'Menú','event_label' : 'Nosotros'});">NOSOTROS</a></li>
-            <li><a href="encuentra-tu-tienda/index.html" class="menuBordeDerecho" onclick="gtag('event', 'click', {'event_category' : 'Menú','event_label' : 'Encuentra tu tienda'});">ENCUENTRA TU TIENDA</a></li>
-            <li><a href="empenar/index.html" class="menuBordeDerecho" onclick="gtag('event', 'click', {'event_category' : 'Menú','event_label' : 'Empeñar'});">EMPEÑAR</a></li>
-            <li><a href="comprar/index.html" class="menuBordeDerecho" onclick="gtag('event', 'click', {'event_category' : 'Menú','event_label' : 'Comprar'});">COMPRAR</a></li>
-            <li><a href="contacto/index.html" class="menuBordeDerecho" onclick="gtag('event', 'click', {'event_category' : 'Menú','event_label' : 'Contáctanos'});">CONTÁCTANOS</a></li>
-            <li><a href="preguntas-frecuentes/index.html" onclick="gtag('event', 'click', {'event_category' : 'Menú','event_label' : 'FAQS'});">FAQ'S</a></li>
-            <!--<li><a href="#">BLOG</a></li>-->
-          </ul>
-        </div>
-        <!--/.nav-collapse -->
-      </div>
-      <!--/.container-fluid -->
-    </nav>
 
 
   </body>
