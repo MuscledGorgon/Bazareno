@@ -53,7 +53,7 @@
             <label class="textoBuscar" for="buscar">Te entendemos, te ayudamos y te prestamos rápido.</label>
             <input class="inputBuscar" type="text" name="buscador" id="buscador" value="" placeholder="">
             <a href="https://www.facebook.com/BazarenoOficial/" target="_blank" onclick="gtag('event', 'click', {'event_category' : 'Menú','event_label' : 'Facebook'});">
-              <img src="wp-content/themes/bazareno/recs/img/iconos/facebook.png" class="img-responsive enLinea" alt="Facebook">
+              <img src="content/img/iconos/facebook.png" class="img-responsive enLinea" alt="Facebook">
             </a>
           </div>
         </form>
