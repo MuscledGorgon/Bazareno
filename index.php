@@ -1,8 +1,8 @@
 <?php include 'Header.php' ?>
 
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
+<html lang="es" dir="ltr">
+  <head lang="es">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -28,6 +28,10 @@
     <link rel="stylesheet" href="content/css/style.css">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="https://bazareno.com.mx/wp-content/themes/bazareno/recs/favicon/ms-icon-144x144.png">
+    <script language="JavaScript">
+      var BASE_URL = "content/index.html";
+    </script>
+
   </head>
   <body>
 
