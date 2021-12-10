@@ -1,23 +1,23 @@
 @font-face {
   font-family: 'Gotham-Bold';
-  src: url('wp-content/themes/bazareno/recs/fonts/gotham/Gotham-Bold.eot');
-  src: url('wp-content/themes/bazareno/recs/fonts/gotham/Gotham-Boldd41d.eot?#iefix') format('embedded-opentype'), url('wp-content/themes/bazareno/recs/fonts/gotham/Gotham-Bold.woff2') format('woff2'), url('wp-content/themes/bazareno/recs/fonts/gotham/Gotham-Bold.woff') format('woff'), url('wp-content/themes/bazareno/recs/fonts/gotham/Gotham-Bold.ttf') format('truetype'), url('wp-content/themes/bazareno/recs/fonts/gotham/Gotham-Bold.svg') format('svg');
+  src: url('content/fonts/gotham/Gotham-Bold.eot');
+  src: url('content/fonts/gotham/Gotham-Boldd41d.eot?#iefix') format('embedded-opentype'), url('content/fonts/gotham/Gotham-Bold.woff2') format('woff2'), url('content/fonts/gotham/Gotham-Bold.woff') format('woff'), url('content/fonts/gotham/Gotham-Bold.ttf') format('truetype'), url('content/fonts/gotham/Gotham-Bold.svg') format('svg');
   font-weight: 400;
   font-style: normal
 }
 
 @font-face {
   font-family: 'Gotham-Bold-Italic';
-  src: url('wp-content/themes/bazareno/recs/fonts/gotham/Gotham-BoldItalic.eot');
-  src: url('wp-content/themes/bazareno/recs/fonts/gotham/Gotham-BoldItalicd41d.eot?#iefix') format('embedded-opentype'), url('wp-content/themes/bazareno/recs/fonts/gotham/Gotham-BoldItalic.woff2') format('woff2'), url('wp-content/themes/bazareno/recs/fonts/gotham/Gotham-BoldItalic.woff') format('woff'), url('wp-content/themes/bazareno/recs/fonts/gotham/Gotham-BoldItalic.ttf') format('truetype'), url('wp-content/themes/bazareno/recs/fonts/gotham/Gotham-BoldItalic.svg') format('svg');
+  src: url('content/fonts/gotham/Gotham-BoldItalic.eot');
+  src: url('content/fonts/gotham/Gotham-BoldItalicd41d.eot?#iefix') format('embedded-opentype'), url('content/fonts/gotham/Gotham-BoldItalic.woff2') format('woff2'), url('content/fonts/gotham/Gotham-BoldItalic.woff') format('woff'), url('content/fonts/gotham/Gotham-BoldItalic.ttf') format('truetype'), url('content/fonts/gotham/Gotham-BoldItalic.svg') format('svg');
   font-weight: 400;
   font-style: normal
 }
 
 @font-face {
   font-family: 'HelveticaNeue-BlkCond';
-  src: url('wp-content/themes/bazareno/recs/fonts/helvetica/HelveticaLTStd-BlkCond.eot');
-  src: url('wp-content/themes/bazareno/recs/fonts/helvetica/HelveticaLTStd-BlkCondd41d.eot?#iefix') format('embedded-opentype'), url('wp-content/themes/bazareno/recs/fonts/helvetica/HelveticaLTStd-BlkCond.woff2') format('woff2'), url('wp-content/themes/bazareno/recs/fonts/helvetica/HelveticaLTStd-BlkCond.woff') format('woff'), url('wp-content/themes/bazareno/recs/fonts/helvetica/HelveticaLTStd-BlkCond.ttf') format('truetype'), url('wp-content/themes/bazareno/recs/fonts/helvetica/HelveticaLTStd-BlkCond.svg') format('svg');
+  src: url('content/fonts/helvetica/HelveticaLTStd-BlkCond.eot');
+  src: url('content/fonts/helvetica/HelveticaLTStd-BlkCondd41d.eot?#iefix') format('embedded-opentype'), url('content/fonts/helvetica/HelveticaLTStd-BlkCond.woff2') format('woff2'), url('content/fonts/helvetica/HelveticaLTStd-BlkCond.woff') format('woff'), url('content/fonts/helvetica/HelveticaLTStd-BlkCond.ttf') format('truetype'), url('content/fonts/helvetica/HelveticaLTStd-BlkCond.svg') format('svg');
   font-weight: 400;
   font-style: normal
 }
@@ -83,8 +83,8 @@ input {
 
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url('wp-content/themes/bazareno/recs/fonts/glyphicons-halflings-regular.eot');
-  src: url('wp-content/themes/bazareno/recs/fonts/glyphicons-halflings-regulard41d.eot?#iefix') format('embedded-opentype'), url('wp-content/themes/bazareno/recs/fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('wp-content/themes/bazareno/recs/glyphicons-halflings-regular.html') format('woff'), url('wp-content/themes/bazareno/recs/glyphicons-halflings-regular-2.html') format('truetype'), url('wp-content/themes/bazareno/recs/glyphicons-halflings-regular-3.html#glyphicons_halflingsregular') format('svg')
+  src: url('content/fonts/glyphicons-halflings-regular.eot');
+  src: url('content/fonts/glyphicons-halflings-regulard41d.eot?#iefix') format('embedded-opentype'), url('content/fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('wp-content/themes/bazareno/recs/glyphicons-halflings-regular.html') format('woff'), url('wp-content/themes/bazareno/recs/glyphicons-halflings-regular-2.html') format('truetype'), url('wp-content/themes/bazareno/recs/glyphicons-halflings-regular-3.html#glyphicons_halflingsregular') format('svg')
 }
 
 .glyphicon {
